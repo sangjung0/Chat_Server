@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# IDE directories
+.vscode/
+.idea/
+*.swp
+
+# Binaries
+bin/
+build/
+
+# Libraries
+lib/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Ignore the README if you don't want it in the image
+README.md

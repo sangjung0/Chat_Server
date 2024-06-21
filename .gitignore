@@ -1,0 +1,17 @@
+# Binaries
+/bin/
+/build/
+
+# Libraries
+/lib/
+
+# Object files
+*.o
+
+# Executable files
+*.exe
+
+# IDE directories
+.vscode/
+.idea/
+*.swp
