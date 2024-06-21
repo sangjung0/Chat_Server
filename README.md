@@ -1,14 +1,14 @@
 <div align="center">
-  <h1> Image Classifier </h1>
+  <h1> Chat Server </h1>
   
   [sangjung0](https://github.com/sangjung0)
 
   <br>
-  
+
   <a href="https://github.com/sangjung0/Chat_Server/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=sangjung0/Schedular" />
+    <img src="https://contrib.rocks/image?repo=sangjung0/Chat_Server" />
   </a>
-  
+    
   <br>
   <br>
 
